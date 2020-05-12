@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">Trivia</string>
+    <string name="true_title">true</string>
+    <string name="false_title">false</string>
+    <string name="previous_button">previous button</string>
+    <string name="next_button">previous button</string>
+    <string name="counter_questions">0/100</string>
+    <string name="question_text">Hello There!</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Wrong!</string>
+    <string name="save_text">save score</string>
+    <string name="current_score">Your score: 0</string>
+    <string name="best_score">"Best score: 0"</string>
+</resources>
